@@ -1,2 +1,3 @@
 # conference_spring_boot
-A plural sight course demo 
+## "Spring Framework: Spring fundamentals" - A plural sight course  
+This is a demoproject for Java Spring basics. Course by Bryan Hansen 
